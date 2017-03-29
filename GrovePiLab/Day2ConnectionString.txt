@@ -1,0 +1,4 @@
+// This is a default place holder connection string for the lab. 
+// During Day 3 lab, you will replace the string with your own connection string once you 
+// have created your own IoT Hub and device on the hub.
+const string deviceConnectionString = "HostName=VirtualLabIotHub.azure-devices.net;DeviceId=RPi3a;SharedAccessKey=Iat8bHSlDeEik2lnCHbdV6RyYPcfF26lak+dvL7FQ3s=";
